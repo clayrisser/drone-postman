@@ -1,4 +1,5 @@
 # postman-drone
+[![Docker Stars](https://img.shields.io/docker/stars/jamrizzi/drone-postman.svg?style=flat-square)](https://hub.docker.com/r/jamrizzi/drone-postman/) [![Docker Stars](https://img.shields.io/docker/pulls/jamrizzi/drone-postman.svg?style=flat-square)](https://hub.docker.com/r/jamrizzi/drone-postman/) [![Docker Stars](https://img.shields.io/docker/build/jamrizzi/drone-postman.svg?style=flat-square)](https://hub.docker.com/r/jamrizzi/drone-postman/)
 
 Test postman collection with [Drone](https://github.com/drone/drone)
 
